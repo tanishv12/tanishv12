@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Tanish Visanagiri
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hey, I'm Tanish 👋🏾
 
-<!---
-tanishv12/tanishv12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://i.pinimg.com/originals/60/75/55/607555eb38b148551d9555823f697f65.jpg)
+
+I am a 17-year-old who really interested in code.
+
+🎯Skills/Learning: 
+🐍Python 
+☕Java 
+🦎Django 
+📍HTML 
+
+
+🔭 I’m currently working on Agenda 
+🌱 I’m currently learning Django 
