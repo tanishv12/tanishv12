@@ -3,7 +3,7 @@
 
 
 
-I am a 17-year-old who really interested in code.
+I am a 18-year-old who really interested in code.
 
 🎯Skills/Learning: 
 🐍Python 
