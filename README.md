@@ -13,4 +13,4 @@ I am a 19-year-old who is really interested in coding.
 
 
 🔭 I’m currently working with Python in detail
-🌱 I’m currently learning on working with APIs
+🌱 I’m currently learning to work with APIs
