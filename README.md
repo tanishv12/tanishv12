@@ -12,5 +12,5 @@ I am a 19-year-old who is really interested in coding.
 📍HTML 
 
 
-🔭 I’m currently working with Python in detail
+🔭 Python and AI
 🌱 I’m currently learning to work with APIs
