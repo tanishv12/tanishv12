@@ -3,7 +3,7 @@
 
 
 
-I am a 19-year-old who is really interested in coding.
+Learning and exploring technology.
 
 🎯Skills/Learning: 
 🐍Python 
